@@ -5,13 +5,13 @@ _**Project Title**_
 
 _**Problem Statement**_
 
-  Objectively, This program solves the problem of randomly selecting an item from a list of user-provided inputs.
+  •Objectively, This program solves the problem of randomly selecting an item from a list of user-provided inputs.
   Users often need a fair, unbiased way to choose between multiple options—whether names, numbers, tasks, or choices.
 
-  Subjectively, it helps people with indecisiveness when they are online. They can simply use this playful program to
+  •Subjectively, it helps people with indecisiveness when they are online. They can simply use this playful program to
   decide their next move. May it be games, things to do, and more. 
 
-  The program allows users to enter as many items as they want and then uses a “spin-the-wheel” style roulette to highlight 
+  •The program allows users to enter as many items as they want and then uses a “spin-the-wheel” style roulette to highlight 
   a random selection.
 
 
