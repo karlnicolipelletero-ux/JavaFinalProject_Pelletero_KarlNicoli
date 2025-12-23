@@ -17,12 +17,10 @@ _**Problem Statement**_
 
 _**Program Features**_
 
-  •Allows users to input unlimited text or number entries
-  •Displays all added items in a list
-  •Provides a “Roulette” button that simulates a spinning selection effect
-  •Randomly selects one item from the list
-  •Includes additional buttons such as Add, Clear, and Spin for better usability
-  •Simple and intuitive Java Swing-based graphical interface
+  •It Allows users to input unlimited text or number entries,
+  Displays all added items in a list , Provides a “Roulette” button that simulates a spinning
+  selection effect, randomly selects one item from the list, includes additional buttons such as
+  Add, Clear, and Spin for better usability, simple and intuitive Java Swing-based graphical interface
 
   
 _**How to Run the Program**_
