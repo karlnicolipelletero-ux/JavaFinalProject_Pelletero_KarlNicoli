@@ -1,9 +1,9 @@
-**Project Title**
+_**Project Title**_
 
   Roulette Input Randomizer
 
 
-**Problem Statement**
+_**Problem Statement**_
 
   Objectively, This program solves the problem of randomly selecting an item from a list of user-provided inputs.
   Users often need a fair, unbiased way to choose between multiple options—whether names, numbers, tasks, or choices.
@@ -15,7 +15,7 @@
   a random selection.
 
 
-**Program Features**
+_**Program Features**_
 
   •Allows users to input unlimited text or number entries
   •Displays all added items in a list
@@ -25,7 +25,7 @@
   •Simple and intuitive Java Swing-based graphical interface
 
   
-**How to Run the Program**
+_**How to Run the Program**_
   
   Follow these steps to compile and execute the project:
     1. Make sure roulette.java and Randomizer.java are in the same directory.
