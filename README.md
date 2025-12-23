@@ -1,4 +1,4 @@
-( ** )Project Title( ** )
+(__)Project Title(__)
 
 Roulette Input Randomizer
 
