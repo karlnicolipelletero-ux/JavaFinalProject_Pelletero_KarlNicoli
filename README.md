@@ -1,3 +1,4 @@
+_**Project Title**_
 
   Roulette Input Randomizer
 
@@ -32,7 +33,7 @@ _**How to Run the Program**_
   
 _**Sample Output**_        
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f6f31f8-3fa6-42f3-a51e-cbac03a56639" />_**Project Title**_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f6f31f8-3fa6-42f3-a51e-cbac03a56639" />
 
     
 
